@@ -1,2 +1,2 @@
-# web-worker-color-plot
-基于vue.js的web worker实例，用于计算图像的color信息
+Vue.js组件中使用web worker的方法探索，使用vue-worker插件
+在web worker的线程中计算图片的rgb色彩信息
